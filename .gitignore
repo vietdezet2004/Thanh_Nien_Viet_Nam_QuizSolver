@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Temporary screenshots and dumps
+screen.png
+*.png
+*.jpg
+*.jpeg
+*.xml
+
+# APK / Large binary packages
+extracted/
+*.apk
+*.xapk
+*.zip
+
+# IDE / OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
